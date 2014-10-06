@@ -102,6 +102,7 @@ include-seabios						# Take Seabios from the orc-xen tree instead of upstream gi
 ##
 ## XSA patches - remove when we update to Xen version including these
 ##
+XSA-108_properly_bound_x2APIC_MSR_range
 
 ##
 ## Unsorted below
