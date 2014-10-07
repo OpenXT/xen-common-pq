@@ -102,6 +102,7 @@ include-seabios						# Take Seabios from the orc-xen tree instead of upstream gi
 ##
 ## XSA patches - remove when we update to Xen version including these
 ##
+XSA-96_fix_hvm_msi_injection
 XSA-92_fix_invalid_p2m_entry_creation
 XSA-89_HVMOP_set_mem_access_not_preemptible
 XSA-106_privilege_check_in_x86_sw_int
