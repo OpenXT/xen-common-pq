@@ -102,6 +102,7 @@ include-seabios						# Take Seabios from the orc-xen tree instead of upstream gi
 ##
 ## XSA patches - remove when we update to Xen version including these
 ##
+XSA-106_privilege_check_in_x86_sw_int
 XSA-105_priv_check_in_x86_HLT_LGDT_LIDT_LMSW
 XSA-104_fix_race_condition_with_dirty_vram_state
 XSA-100_scrub_hypervisor_pages_on_free
